@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @HalimRaimjanov
-- 👀 I’m interested in front-end developing 
-- 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on other content github
 - 📫 How to reach me https://www.linkedin.com/in/halimjon-raimjanov-250009205/
 
